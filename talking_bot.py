@@ -26,7 +26,7 @@ def generate_gemini_content(api_key, prompt):
 
 
 
-api_key = "AIzaSyC7y43kotucX10_feqAywC--ajKrpix1cI"  
+api_key = "API_KEY"  
 # print(" click 1 for text or 2 for speaking")
 print("Enter 1 for text input or 2 for speaking or enter q to exit")
 option = (input())
